@@ -1,0 +1,38 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<flow-build plugin="workflow-job@2.42">
+  <actions>
+    <hudson.model.CauseAction>
+      <causeBag class="linked-hash-map">
+        <entry>
+          <jenkins.branch.BranchEventCause plugin="branch-api@2.7.0">
+            <timestamp>1639389761184</timestamp>
+            <origin>140.82.115.251 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/</origin>
+            <description>Push event to branch main</description>
+          </jenkins.branch.BranchEventCause>
+          <int>1</int>
+        </entry>
+      </causeBag>
+    </hudson.model.CauseAction>
+    <jenkins.scm.api.SCMRevisionAction plugin="scm-api@2.6.5">
+      <sourceId>e7db2c76-d35e-457c-a878-0a2d04b2cf21</sourceId>
+      <revision class="jenkins.plugins.git.AbstractGitSCMSource$SCMRevisionImpl" plugin="git@4.10.0">
+        <head class="org.jenkinsci.plugins.github_branch_source.BranchSCMHead" plugin="github-branch-source@2.11.3">
+          <name>main</name>
+        </head>
+        <hash>4e931f118ef7dea3f47b85c900a18d17e03dbcd2</hash>
+      </revision>
+    </jenkins.scm.api.SCMRevisionAction>
+    <org.jenkinsci.plugins.workflow.libs.LibrariesAction plugin="workflow-cps-global-lib@552.vd9cc05b8a2e1">
+      <libraries/>
+    </org.jenkinsci.plugins.workflow.libs.LibrariesAction>
+  </actions>
+  <queueId>184</queueId>
+  <timestamp>1639389772647</timestamp>
+  <startTime>1639389772650</startTime>
+  <result>FAILURE</result>
+  <duration>309553</duration>
+  <charset>UTF-8</charset>
+  <keepLog>false</keepLog>
+  <completed>true</completed>
+  <checkouts class="hudson.util.PersistedList"/>
+</flow-build>

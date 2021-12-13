@@ -1,0 +1,32 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<Tag plugin="workflow-support@3.8">
+  <node class="cps.n.StepStartNode" plugin="workflow-cps@2640.v00e79c8113de">
+    <parentIds>
+      <string>9</string>
+    </parentIds>
+    <id>10</id>
+    <descriptorId>org.jenkinsci.plugins.workflow.steps.EnvStep</descriptorId>
+  </node>
+  <actions>
+    <s.a.LogStorageAction/>
+    <cps.a.ArgumentsActionImpl plugin="workflow-cps@2640.v00e79c8113de">
+      <arguments>
+        <entry>
+          <string>overrides</string>
+          <list>
+            <string>GIT_BRANCH=main</string>
+            <string>GIT_COMMIT=c1f96399803352ed97e1ab983633d0c1ebaaeb7b</string>
+            <string>GIT_PREVIOUS_COMMIT=514b47ada581e6809d37d4e6cf35cdbf7c623c59</string>
+            <string>GIT_PREVIOUS_SUCCESSFUL_COMMIT=514b47ada581e6809d37d4e6cf35cdbf7c623c59</string>
+            <string>GIT_URL=https://github.com/GalSh5/newtest.git</string>
+          </list>
+        </entry>
+      </arguments>
+      <sensitiveVariables/>
+      <isUnmodifiedBySanitization>true</isUnmodifiedBySanitization>
+    </cps.a.ArgumentsActionImpl>
+    <wf.a.TimingAction plugin="workflow-api@1105.v3de5e2efac97">
+      <startTime>1639382028885</startTime>
+    </wf.a.TimingAction>
+  </actions>
+</Tag>

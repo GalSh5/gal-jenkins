@@ -1,0 +1,20 @@
+commit f70f3bfae11f887bce88459cc16097688ef59055
+tree 708207c0e3a7050d847b26d7bd4d5f2242cfc8ec
+parent e74b8f50d3976eb30cc1d2fa793867b6a8570574
+author root <root@ip-172-31-32-194.us-east-2.compute.internal> 2021-12-13 08:39:14 +0000
+committer root <root@ip-172-31-32-194.us-east-2.compute.internal> 2021-12-13 08:39:14 +0000
+
+    new 1
+
+
+:100644 100644 260c23a0d61727cf8cdb32f9879a5d7b4527a50d fdec7bd7c00fad05a6a72739513730b78e94d987 M	Jenkinsfile
+commit e74b8f50d3976eb30cc1d2fa793867b6a8570574
+tree 53af8715ee5f9a4271dd489160ff020110c54d9b
+parent 1e6957aafb1d41a70d286f1b311bea2fd26e754f
+author root <root@ip-172-31-32-194.us-east-2.compute.internal> 2021-12-13 08:33:14 +0000
+committer root <root@ip-172-31-32-194.us-east-2.compute.internal> 2021-12-13 08:33:14 +0000
+
+    new 1
+
+
+:100644 100644 856363be11a92ee9ab7ebe5f0c62287aa9fb8855 260c23a0d61727cf8cdb32f9879a5d7b4527a50d M	Jenkinsfile

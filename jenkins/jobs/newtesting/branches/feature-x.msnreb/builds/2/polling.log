@@ -1,0 +1,25 @@
+Started on Dec 13, 2021, 2:30:52 PM
+Started by event from 140.82.115.117 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ on Mon Dec 13 14:30:51 UTC 2021
+Using strategy: SpecificRevisionBuildChooser
+[poll] Last Built Revision: Revision 3505688f641965c82b449dffffa75b0f19410bdb (feature_x)
+Selected Git installation does not exist. Using Default
+The recommended git tool is: NONE
+No credentials specified
+ > git --version # timeout=10
+ > git --version # 'git version 2.25.1'
+ > git ls-remote -h -- https://github.com/GalSh5/newtest.git # timeout=10
+Found 2 remote heads on https://github.com/GalSh5/newtest.git
+Ignoring refs/heads/main as it doesn't match any of the configured refspecs
+[poll] Latest remote head revision on refs/heads/feature_x is: 3505688f641965c82b449dffffa75b0f19410bdb - already built by 1
+Using strategy: Default
+[poll] Last Built Revision: Revision 3505688f641965c82b449dffffa75b0f19410bdb (feature_x)
+Selected Git installation does not exist. Using Default
+The recommended git tool is: NONE
+No credentials specified
+ > git --version # timeout=10
+ > git --version # 'git version 2.25.1'
+ > git ls-remote -h -- https://github.com/GalSh5/newtest.git # timeout=10
+Found 2 remote heads on https://github.com/GalSh5/newtest.git
+[poll] Latest remote head revision on refs/heads/main is: 0a433d1d36dd616df6b128af3dff82da6bbcdbcd
+Done. Took 0.72 sec
+Changes found

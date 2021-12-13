@@ -1,0 +1,47 @@
+Branch indexing
+[8mha:////4KQND82sqTVQX6o09W3EkHCvstR8SUDUx1jZI4IJgC5oAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtFlkWLQDN4lAZjgAAAA==[0mConnecting to https://api.github.com with no credentials, anonymous access
+Obtained Jenkinsfile from 3505688f641965c82b449dffffa75b0f19410bdb
+[8mha:////4K0l3m+M4J9ZpybR1bKNQLFfPF6wV6+z7QopoVMHAyBWAAAAoh+LCAAAAAAAAP9tjTEOwjAQBM8BClpKHuFItIiK1krDC0x8GCfWnbEdkooX8TX+gCESFVvtrLSa5wtWKcKBo5UdUu8otU4GP9jS5Mixv3geZcdn2TIl9igbHBs2eJyx4YwwR1SwULBGaj0nRzbDRnX6rmuvydanHMu2V1A5c4MHCFXMWcf8hSnC9jqYxPTz/BXAFEIGsfuclm8zQVqFvQAAAA==[0m[Pipeline] Start of Pipeline
+[8mha:////4CPgTtRqzmgy1/ktxsT/918kOtEApv9vmUEdEBDl7H0dAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQSbaGmsbAmNJ0AWEZb8zwLrbuWJvJp3kLiJlZNMMm+a93rDOic4UbLcG+wdZu14DKOti0+U+lugiXu6ck2YKRguzSSpM+cFJRUDS1gDKwEbgzpQdmgLbIVXD9UGhba9lFS/o4DGdQM8gYlqLiqVL8wJdvexy4Q/z18BzLEA29ce4gfya1RxvAAAAA==[0m[Pipeline] properties
+[8mha:////4KZI25DXWR3P+2216762xGFJa3yxsaXzu2NIgfj0Rt4NAAAApR+LCAAAAAAAAP9tjUEKwjAURH8qXbh16SFSEHfiym3IxhPEJMa04f82SW1XnsireQejBVcODMwMDO/5gjpFOFJ0vLXYeUza8z6MriQ+UeyugSbe0oVrwkTBcmknScaeliopW1jEKlgJWFvUgZJHl2EjWnVXTVDomnOOZTsIqLwZ4AFMFHJWMX/LHGF7G00i/HH+AmDuM7Bd8f7zq9/WVBy+wAAAAA==[0m[Pipeline] stage
+[8mha:////4JQmcKq6rsAaySTeh/t6oCh6nWCYYXClODYdh9PiJynuAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gQkxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jc09154wAAAAA==[0m[Pipeline] { (Build)
+[8mha:////4KBo6LPzLSCMnHsl4El2yznO71ijOr8442ZCrd4MKkEJAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0ggUxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jek7ggRwAAAAA==[0m[Pipeline] node
+Running on [8mha:////4FOf9kGa+EUpLIZ1Uj9Hz8ehk5CWjkdn1a/EoLn+/o/fAAAAoR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZR/eT83ILSktQifY2k0sycEt3MPE19AHHxbH3KAAAA[0mJenkins in /var/lib/jenkins/workspace/multipipeline_feature_x
+[8mha:////4Fu6xay4mzk1/sqcvizm3fdis8Y8ZcDrRs8oe+UmHcL9AAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gwExsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jcChmMxwAAAAA==[0m[Pipeline] {
+[8mha:////4FHvZwqEiIgp+2/kpOUmlW+MYVJUlNDyGORyP5mMCX+nAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQRbamKsbAmNJ0AWEZb8zwLrbuWJvJp3kLiJlZNMMm+a93rDOic4UbLcG+wdZu14DKOti0+U+lugiXu6ck2YKRguzSSpM+cFJRUDS1gDKwEbgzpQdmgLbIVXD9UGhba9lFS/o4DGdQM8gYlqLiqVL8wJdvexy4Q/z18BzLEA29ce4geKI23CvAAAAA==[0m[Pipeline] checkout
+Selected Git installation does not exist. Using Default
+The recommended git tool is: NONE
+No credentials specified
+Cloning the remote Git repository
+Cloning with configured refspecs honoured and without tags
+Cloning repository https://github.com/GalSh5/newtest.git
+ > git init /var/lib/jenkins/workspace/multipipeline_feature_x # timeout=10
+Fetching upstream changes from https://github.com/GalSh5/newtest.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.25.1'
+ > git fetch --no-tags --force --progress -- https://github.com/GalSh5/newtest.git +refs/heads/feature_x:refs/remotes/origin/feature_x # timeout=10
+ > git config remote.origin.url https://github.com/GalSh5/newtest.git # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/feature_x:refs/remotes/origin/feature_x # timeout=10
+Avoid second fetch
+Checking out Revision 3505688f641965c82b449dffffa75b0f19410bdb (feature_x)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 3505688f641965c82b449dffffa75b0f19410bdb # timeout=10
+Commit message: "Edited via phone"
+First time build. Skipping changelog.
+ > git --version # timeout=10
+ > git --version # 'git version 2.25.1'
+[8mha:////4P6OxGb9zsLJfgf2iyp2Ps0kpYpbYgszfvskwiOgiWnBAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0RAgxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jdMjKvkwAAAAA==[0m[Pipeline] withEnv
+[8mha:////4NeFOg6YePInEVNz6d+2B3GZftnaV01mbF1C7CC868JvAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQDJUJUtJYbXmBiY5xYd8G+kFS8iK/xBwKRqNhqZ6XVPF9Q5gQHSl42DtuAuQ6yi72fmhwotZdIg2zoLGvCTNFJ7QZN1h1n1MQO5ogCFgqWDutIOaBnWKnG3E0VDfrqxGna9gqKYG/wAKEmM5vEXxgTrK+9zYQ/z18BjB2D2DEU283nWL4Bsam+msEAAAA=[0m[Pipeline] {
+[8mha:////4OYXa5dxHVv/r2wzW4tqZBYUIAQ+GDqG740MMHJWPGPLAAAAox+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJCakRFa6XhBSYxxo5159gOTsWL+Bp/IBCJii1WO9vM8wXrGODIQaNV1BuKrUHvRj0vzBz6q+OMli/YMkV2ChuVG+7UacGGk4IlRQkrARtFreNoSCfYCivvsnKSdHVOYf4OAkrTDfCAQszmJEP6whRgdxu7yPTz/BXA5BOU9f5TtX8D0loxuL4AAAA=[0m[Pipeline] isUnix
+[8mha:////4DdA2omLQFYB5CYtcwTHrd8YSF8F9qIT8/MFIsWUjppyAAAAox+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICtIgqreWGF5jYGCfWnbEdkooX8TX+QCASFVusdraZ5wuWKcKRo8XWUOcoNQ6D7+20cODYXTwP2PIZG6bE3qA0g2Rt6hklZwNzihIWAlaGGs/Jkc2wFq26q8orstUpx+k7CCidvsEDCjGZs4r5C2OEzbXXienn+SuAMWQod9tP7cMbEQkck74AAAA=[0m[Pipeline] sh
++ docker inspect -f . python:3-alpine
+.
+[8mha:////4Ks8cRZPeq9/t105V3RoxIea4MKPT3MXLg9+RGChrCFwAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycogUxIiYukZZOEFoQkgb/V9+UtqJE3E17kBLJSY8WLYl673eUESGE7ETjcXWY6y96ELvpiQG4vYaaBANXURNGClYoeygyNhqqYqShUVZDisJa4t1oOjRJdjIRj90GTS68px42o4Scm/u8IRMTuSkOX3LyLC99SYS/jh/ATB2CfL9brbD/Cw+CgB4kcIAAAA=[0m[Pipeline] withDockerContainer
+Jenkins does not seem to be running inside a container
+$ docker run -t -d -u 113:119 -w /var/lib/jenkins/workspace/multipipeline_feature_x -v /var/lib/jenkins/workspace/multipipeline_feature_x:/var/lib/jenkins/workspace/multipipeline_feature_x:rw,z -v /var/lib/jenkins/workspace/multipipeline_feature_x@tmp:/var/lib/jenkins/workspace/multipipeline_feature_x@tmp:rw,z -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** python:3-alpine cat
+ERROR: Timeout after 180 seconds
+[8mha:////4K+Xy5LmNDsXrFmZOGJ8GwK2y/umtdL0UOFsJ604kVZdAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiBB2iSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwhQ7ndf2r3BhW0chS+AAAA[0m[Pipeline] // withDockerContainer
+[8mha:////4DSMNfCwg7L5cz4xebmSqTA6Mrgq4Kdit6rLnaMiYFZXAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICBRWiSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwhQ7nbf2r7Bgo2J0a+AAAA[0m[Pipeline] }
+Resuming build at Mon Dec 13 14:25:09 UTC 2021 after Jenkins restart
+Waiting to resume part of multipipeline » feature_x #1: Finished waiting
+Ready to run at Mon Dec 13 14:25:24 UTC 2021

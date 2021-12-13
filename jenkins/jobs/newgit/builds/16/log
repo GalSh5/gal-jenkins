@@ -1,0 +1,30 @@
+Started by GitHub push by GalSh5
+Running as SYSTEM
+Building on the built-in node in workspace /var/lib/jenkins/workspace/newgit
+Selected Git installation does not exist. Using Default
+The recommended git tool is: NONE
+using credential 851fdaf4-4413-48a8-8d69-d919abec3330
+ > git rev-parse --resolve-git-dir /var/lib/jenkins/workspace/newgit/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url git@github.com:GalSh5/newtest # timeout=10
+Fetching upstream changes from git@github.com:GalSh5/newtest
+ > git --version # timeout=10
+ > git --version # 'git version 2.25.1'
+using GIT_SSH to set credentials 
+ > git fetch --tags --force --progress -- git@github.com:GalSh5/newtest +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/main^{commit} # timeout=10
+Checking out Revision f70f3bfae11f887bce88459cc16097688ef59055 (refs/remotes/origin/main)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f f70f3bfae11f887bce88459cc16097688ef59055 # timeout=10
+Commit message: "new 1"
+ > git rev-list --no-walk e74b8f50d3976eb30cc1d2fa793867b6a8570574 # timeout=10
+[newgit] $ /bin/sh -xe /tmp/jenkins883270125293061297.sh
++ /bin/bash pip install -r requirements.txt
+/usr/bin/pip: line 3: __requires__: command not found
+/usr/bin/pip: line 4: import: command not found
+/usr/bin/pip: line 5: import: command not found
+from: can't read /var/mail/pkg_resources
+/usr/bin/pip: pip: line 9: syntax error near unexpected token `('
+/usr/bin/pip: pip: line 9: `    sys.argv[0] = re.sub(r'(-script\.pyw?|\.exe)?$', '', sys.argv[0])'
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

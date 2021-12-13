@@ -1,0 +1,8 @@
+multipipeline/feature_x
+multipipeline_feature_x
+multipipeline/main
+multipipeline_main
+newtesting/feature_x
+newtesting_feature_x
+newtesting/main
+newtesting_main

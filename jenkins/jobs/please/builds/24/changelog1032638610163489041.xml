@@ -1,0 +1,10 @@
+commit 54c5705f6917042f0436b31f3959f8f7dd005342
+tree 3db47a23ec5c9d8d6e5ed980153a093bb077f4d8
+parent 6930001e1348bcb6b7bdd2af208d10815917af39
+author root <root@ip-172-31-32-194.us-east-2.compute.internal> 2021-12-13 14:51:32 +0000
+committer root <root@ip-172-31-32-194.us-east-2.compute.internal> 2021-12-13 14:51:32 +0000
+
+    added another jenkinsfile
+
+
+:100644 100644 856363be11a92ee9ab7ebe5f0c62287aa9fb8855 a8a4d9c7fcf739d3f3a3d77f88f0e37ccea6900f M	Jenkinsfile

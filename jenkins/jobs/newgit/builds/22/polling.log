@@ -1,0 +1,15 @@
+Started on Dec 13, 2021, 9:18:09 AM
+Started by event from 140.82.115.100 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ on Mon Dec 13 09:18:09 UTC 2021
+Using strategy: Default
+[poll] Last Built Revision: Revision b909fe13570648d40872d16da0004d5f152bccfe (refs/remotes/origin/main)
+Selected Git installation does not exist. Using Default
+The recommended git tool is: NONE
+using credential 851fdaf4-4413-48a8-8d69-d919abec3330
+ > git --version # timeout=10
+ > git --version # 'git version 2.25.1'
+using GIT_SSH to set credentials 
+ > git ls-remote -h -- git@github.com:GalSh5/newtest # timeout=10
+Found 1 remote heads on git@github.com:GalSh5/newtest
+[poll] Latest remote head revision on refs/heads/main is: 4b8989fa44edd8e0616ec3a6dea6af94b0b7a771
+Done. Took 0.38 sec
+Changes found

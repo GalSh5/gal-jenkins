@@ -1,0 +1,104 @@
+commit 239c9dc66e6c7d823af4fe4948d542d388ade1c9
+tree 78017652865159130d28357c6342872f4d30c175
+parent 174de10afe924a95b36a4271a6bb23d0a38ca4f3
+author root <root@ip-172-31-32-194.us-east-2.compute.internal> 2021-12-13 10:23:28 +0000
+committer root <root@ip-172-31-32-194.us-east-2.compute.internal> 2021-12-13 10:23:28 +0000
+
+    cmonnnnn 3
+
+
+:100644 100644 22bb9113af088cdef6fb15cf3763a9fae18824cc a02658e2b86268be2ed8e9fa521bfceacbbfa16c M	Jenkinsfile
+commit 174de10afe924a95b36a4271a6bb23d0a38ca4f3
+tree af14dd4183af85895a89b9e00d87eb775f61e200
+parent b7ea8241c3ac8d6e593dfd6cb21ae3c4a8c88af5
+author root <root@ip-172-31-32-194.us-east-2.compute.internal> 2021-12-13 10:19:12 +0000
+committer root <root@ip-172-31-32-194.us-east-2.compute.internal> 2021-12-13 10:19:12 +0000
+
+    cmon 2
+
+
+:100644 100644 a02658e2b86268be2ed8e9fa521bfceacbbfa16c 22bb9113af088cdef6fb15cf3763a9fae18824cc M	Jenkinsfile
+commit b7ea8241c3ac8d6e593dfd6cb21ae3c4a8c88af5
+tree 78017652865159130d28357c6342872f4d30c175
+parent 4ca0c5d7e44e2971d4f4b7cb9375ce47bf8004a5
+author root <root@ip-172-31-32-194.us-east-2.compute.internal> 2021-12-13 10:16:53 +0000
+committer root <root@ip-172-31-32-194.us-east-2.compute.internal> 2021-12-13 10:16:53 +0000
+
+    cmon
+
+
+:100644 100644 22bb9113af088cdef6fb15cf3763a9fae18824cc a02658e2b86268be2ed8e9fa521bfceacbbfa16c M	Jenkinsfile
+commit 4ca0c5d7e44e2971d4f4b7cb9375ce47bf8004a5
+tree af14dd4183af85895a89b9e00d87eb775f61e200
+parent 66504459f81d72e464c40823e647adc812b33996
+author root <root@ip-172-31-32-194.us-east-2.compute.internal> 2021-12-13 10:13:08 +0000
+committer root <root@ip-172-31-32-194.us-east-2.compute.internal> 2021-12-13 10:13:08 +0000
+
+    tre
+
+
+:100644 100644 e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 718f4d2ff533cf8ead8d3556cf43912bd245fbc4 M	t
+commit 66504459f81d72e464c40823e647adc812b33996
+tree 4b45a3f41f4d935b8d4143eacf253957daa335c9
+parent 4e931f118ef7dea3f47b85c900a18d17e03dbcd2
+author root <root@ip-172-31-32-194.us-east-2.compute.internal> 2021-12-13 10:07:47 +0000
+committer root <root@ip-172-31-32-194.us-east-2.compute.internal> 2021-12-13 10:07:47 +0000
+
+    please new 1
+
+
+:100644 100644 b405f2b7b7184541503be569cfeffed6ac7f3aa1 22bb9113af088cdef6fb15cf3763a9fae18824cc M	Jenkinsfile
+commit 4e931f118ef7dea3f47b85c900a18d17e03dbcd2
+tree 4931d4356947c6792f5cb4ed3d86e4fac1e74fee
+parent f0752bc691c2a4262527fb716a74d3eea75c919f
+author root <root@ip-172-31-32-194.us-east-2.compute.internal> 2021-12-13 10:02:36 +0000
+committer root <root@ip-172-31-32-194.us-east-2.compute.internal> 2021-12-13 10:02:36 +0000
+
+    edited jenkinsfile
+
+
+:100644 100644 4ab84c7599bc62e1f6d2956d4a3af3cf8f583ff3 b405f2b7b7184541503be569cfeffed6ac7f3aa1 M	Jenkinsfile
+commit f0752bc691c2a4262527fb716a74d3eea75c919f
+tree c3810357ff4471996918d8c5b2c0b92ca126adae
+parent 60817c7d6e0f5cc0f73fbf42d4731b43ec43832d
+author root <root@ip-172-31-32-194.us-east-2.compute.internal> 2021-12-13 10:01:02 +0000
+committer root <root@ip-172-31-32-194.us-east-2.compute.internal> 2021-12-13 10:01:02 +0000
+
+    deleted unecessary file
+
+
+:100644 000000 e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 0000000000000000000000000000000000000000 D	temp
+commit 60817c7d6e0f5cc0f73fbf42d4731b43ec43832d
+tree 630afe0d2fb4e3863475f06d3883c35d1fa3c6cb
+parent a33e4bda9543f9fa24e7e182638e8f87be53689a
+author root <root@ip-172-31-32-194.us-east-2.compute.internal> 2021-12-13 10:01:01 +0000
+committer root <root@ip-172-31-32-194.us-east-2.compute.internal> 2021-12-13 10:01:01 +0000
+
+    for testing
+
+
+:000000 100644 0000000000000000000000000000000000000000 e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 A	temp
+commit a33e4bda9543f9fa24e7e182638e8f87be53689a
+tree c3810357ff4471996918d8c5b2c0b92ca126adae
+parent 4b8989fa44edd8e0616ec3a6dea6af94b0b7a771
+author root <root@ip-172-31-32-194.us-east-2.compute.internal> 2021-12-13 09:51:39 +0000
+committer root <root@ip-172-31-32-194.us-east-2.compute.internal> 2021-12-13 09:51:39 +0000
+
+    blah blah
+
+
+:100644 100644 e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 4ab84c7599bc62e1f6d2956d4a3af3cf8f583ff3 M	Jenkinsfile
+commit 4b8989fa44edd8e0616ec3a6dea6af94b0b7a771
+tree 91218d7f0f723b25cdf16b3f3705d4caf0727285
+parent b909fe13570648d40872d16da0004d5f152bccfe
+author root <root@ip-172-31-32-194.us-east-2.compute.internal> 2021-12-13 09:18:08 +0000
+committer root <root@ip-172-31-32-194.us-east-2.compute.internal> 2021-12-13 09:18:08 +0000
+
+    added files
+
+
+:100644 100644 6ebbd419ed4e3985e5d2042a6791b698ed22c914 e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 M	Jenkinsfile
+:000000 100644 0000000000000000000000000000000000000000 fdec7bd7c00fad05a6a72739513730b78e94d987 A	Jenkinsfile.backup
+:000000 100644 0000000000000000000000000000000000000000 856363be11a92ee9ab7ebe5f0c62287aa9fb8855 A	Jenkinsfile.old
+:000000 100644 0000000000000000000000000000000000000000 003b23012735d984676975266104f49cdb9e2fa5 A	Jenkinsfile.testing
+:000000 100644 0000000000000000000000000000000000000000 6ebbd419ed4e3985e5d2042a6791b698ed22c914 A	Jenkinsfile.testing2

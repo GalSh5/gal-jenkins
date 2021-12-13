@@ -1,0 +1,20 @@
+commit 4e931f118ef7dea3f47b85c900a18d17e03dbcd2
+tree 4931d4356947c6792f5cb4ed3d86e4fac1e74fee
+parent f0752bc691c2a4262527fb716a74d3eea75c919f
+author root <root@ip-172-31-32-194.us-east-2.compute.internal> 2021-12-13 10:02:36 +0000
+committer root <root@ip-172-31-32-194.us-east-2.compute.internal> 2021-12-13 10:02:36 +0000
+
+    edited jenkinsfile
+
+
+:100644 100644 4ab84c7599bc62e1f6d2956d4a3af3cf8f583ff3 b405f2b7b7184541503be569cfeffed6ac7f3aa1 M	Jenkinsfile
+commit f0752bc691c2a4262527fb716a74d3eea75c919f
+tree c3810357ff4471996918d8c5b2c0b92ca126adae
+parent 60817c7d6e0f5cc0f73fbf42d4731b43ec43832d
+author root <root@ip-172-31-32-194.us-east-2.compute.internal> 2021-12-13 10:01:02 +0000
+committer root <root@ip-172-31-32-194.us-east-2.compute.internal> 2021-12-13 10:01:02 +0000
+
+    deleted unecessary file
+
+
+:100644 000000 e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 0000000000000000000000000000000000000000 D	temp

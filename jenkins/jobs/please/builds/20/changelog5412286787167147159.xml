@@ -1,0 +1,9 @@
+commit 3505688f641965c82b449dffffa75b0f19410bdb
+tree a1321501baa5491f5675d54a9e3d2bfbc5aadaf3
+parent 239c9dc66e6c7d823af4fe4948d542d388ade1c9
+author GalSh5 <87757809+GalSh5@users.noreply.github.com> 2021-12-13 14:15:17 +0200
+committer GitHub <noreply@github.com> 2021-12-13 14:15:17 +0200
+
+    Edited via phone
+
+:100644 100644 a02658e2b86268be2ed8e9fa521bfceacbbfa16c c0ff99515a05c5781e19d025c39714586818b69d M	Jenkinsfile

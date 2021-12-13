@@ -1,0 +1,26 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: Oleg
+Build-Jdk: 1.8.0_201
+Extension-Name: chucknorris
+Specification-Title: Displays a picture of Chuck Norris (instead of Je
+ nkins the butler) and a random Chuck Norris 'The Programmer' fact on 
+ each build page.
+Implementation-Title: chucknorris
+Implementation-Version: 1.4
+Group-Id: org.jvnet.hudson.plugins
+Short-Name: chucknorris
+Long-Name: ChuckNorris Plugin
+Url: https://github.com/jenkinsci/chucknorris-plugin
+Minimum-Java-Version: 1.8
+Plugin-Version: 1.4
+Hudson-Version: 2.190.1
+Jenkins-Version: 2.190.1
+Plugin-Dependencies: workflow-step-api:2.23,script-security:1.75
+Plugin-Developers: Baptiste Mathus:batmat:batmat@batmat.net,Oleg Nenas
+ hev:oleg_nenashev:
+Plugin-License-Name: MIT License
+Plugin-License-Url: LICENSE.txt
+Plugin-ScmUrl: https://github.com/jenkinsci/chucknorris-plugin
+

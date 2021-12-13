@@ -1,0 +1,46 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<flow-definition plugin="workflow-job@2.42">
+  <actions>
+    <org.jenkinsci.plugins.pipeline.modeldefinition.actions.DeclarativeJobAction plugin="pipeline-model-definition@1.9.3"/>
+    <org.jenkinsci.plugins.pipeline.modeldefinition.actions.DeclarativeJobPropertyTrackerAction plugin="pipeline-model-definition@1.9.3">
+      <jobProperties/>
+      <triggers/>
+      <parameters/>
+      <options/>
+    </org.jenkinsci.plugins.pipeline.modeldefinition.actions.DeclarativeJobPropertyTrackerAction>
+  </actions>
+  <description>Checkout two branches</description>
+  <keepDependencies>false</keepDependencies>
+  <properties/>
+  <definition class="org.jenkinsci.plugins.workflow.cps.CpsFlowDefinition" plugin="workflow-cps@2640.v00e79c8113de">
+    <script>pipeline {
+    agent any
+    stages {
+        stage(&apos;CheckoutModule1&apos;) {
+            steps {
+                sh &apos;mkdir -p Module1&apos;
+                dir(&quot;Module1&quot;) {
+                    git branch: &apos;main&apos;, url: &apos;https://github.com/GalSh5/newtest.git&apos;
+                }
+            }
+        }
+        stage(&apos;CheckoutModule2&apos;) {
+            steps {
+                sh &apos;mkdir -p Module2&apos;
+                dir(&quot;Module2&quot;) {
+                    git branch: &apos;main&apos;, url: &apos;https://github.com/GalSh5/newrepo.git&apos;
+                }
+            }
+        }
+        stage(&apos;Test&apos;) {
+            steps {
+                sh &apos;ls -l ; ls -l ../&apos;
+            }
+        }
+    }
+}</script>
+    <sandbox>true</sandbox>
+  </definition>
+  <triggers/>
+  <disabled>false</disabled>
+</flow-definition>

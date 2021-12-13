@@ -1,0 +1,819 @@
+[Mon Dec 13 07:36:06 UTC 2021] Received Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.100 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 07:36:01 UTC 2021
+[8mha:////4NFMmVOw7UTYagVgxjNqjT/T6iMQdvCjLOyuEZFdyDO2AAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtph0xTQAc3udJjgAAAA==[0mConnecting to https://api.github.com with no credentials, anonymous access
+Examining [8mha:////4N3fXuYRp68VYalXJM+cxJzVdQVhz7dZ+LZ8slaNTzgiAAAAoR+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMjgK2FQzCgpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS4BAEt0vlOmAAAA[0mGalSh5/newtest
+
+  Checking branches...
+
+  Getting remote branch main...
+
+    Checking branch [8mha:////4N7yrEsMxID4/t4kTaEzB1HBedXF7FWfxygj5Q9tk4OZAAAAqx+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgKWHQzigpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS7RLylKTdXPTczMAwDdzkCpsAAAAA==[0mmain
+
+  Getting remote pull requests from branch main...
+      ‘Jenkinsfile’ not found
+    Does not meet criteria
+
+  1 branches were processed
+
+Finished examining GalSh5/newtest
+
+[Mon Dec 13 07:36:06 UTC 2021] Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.100 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 07:36:01 UTC 2021 processed in 0.39 sec
+[Mon Dec 13 07:37:28 UTC 2021] Received Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.117 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 07:37:23 UTC 2021
+[8mha:////4Kzqrak7eX2pyKCWlY+OInd9RlKFSeooQCx3sMyKV+x5AAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtpp3z+gDMTV+4jgAAAA==[0mConnecting to https://api.github.com with no credentials, anonymous access
+Examining [8mha:////4N3fXuYRp68VYalXJM+cxJzVdQVhz7dZ+LZ8slaNTzgiAAAAoR+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMjgK2FQzCgpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS4BAEt0vlOmAAAA[0mGalSh5/newtest
+
+  Checking branches...
+
+  Getting remote branch main...
+
+    Checking branch [8mha:////4N7yrEsMxID4/t4kTaEzB1HBedXF7FWfxygj5Q9tk4OZAAAAqx+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgKWHQzigpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS7RLylKTdXPTczMAwDdzkCpsAAAAA==[0mmain
+
+  Getting remote pull requests from branch main...
+      ‘Jenkinsfile’ found
+    Met criteria
+Scheduled build for branch: main
+
+  1 branches were processed (query completed)
+
+  1 branches were processed
+
+Finished examining GalSh5/newtest
+
+[Mon Dec 13 07:37:29 UTC 2021] Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.117 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 07:37:23 UTC 2021 processed in 0.35 sec
+[Mon Dec 13 07:50:51 UTC 2021] Received Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.108 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 07:50:46 UTC 2021
+[8mha:////4Mdz0983OT0V/RrXdMLX3C7kObuHmEZ0Q8ogIlc8VfHlAAAAhR+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtpqN39wIAKKEwgY4AAAA=[0mConnecting to https://api.github.com with no credentials, anonymous access
+Examining [8mha:////4N3fXuYRp68VYalXJM+cxJzVdQVhz7dZ+LZ8slaNTzgiAAAAoR+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMjgK2FQzCgpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS4BAEt0vlOmAAAA[0mGalSh5/newtest
+
+  Checking branches...
+
+  Getting remote branch main...
+
+    Checking branch [8mha:////4N7yrEsMxID4/t4kTaEzB1HBedXF7FWfxygj5Q9tk4OZAAAAqx+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgKWHQzigpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS7RLylKTdXPTczMAwDdzkCpsAAAAA==[0mmain
+
+  Getting remote pull requests from branch main...
+      ‘Jenkinsfile’ found
+    Met criteria
+Changes detected: main (1c3c20df015eaabd4a0d2d8911da61e158c0a31e → 514b47ada581e6809d37d4e6cf35cdbf7c623c59)
+Scheduled build for branch: main
+
+  1 branches were processed (query completed)
+
+  1 branches were processed
+
+Finished examining GalSh5/newtest
+
+[Mon Dec 13 07:50:51 UTC 2021] Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.108 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 07:50:46 UTC 2021 processed in 0.4 sec
+[Mon Dec 13 07:53:39 UTC 2021] Received Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.88 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 07:53:34 UTC 2021
+[8mha:////4JHKpKaBpvkn4nM4y6OnJofNaxKB0WvjYWReilLwX2J+AAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtphO52gCyqkF0jgAAAA==[0mConnecting to https://api.github.com with no credentials, anonymous access
+Examining [8mha:////4N3fXuYRp68VYalXJM+cxJzVdQVhz7dZ+LZ8slaNTzgiAAAAoR+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMjgK2FQzCgpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS4BAEt0vlOmAAAA[0mGalSh5/newtest
+
+  Checking branches...
+
+  Getting remote branch main...
+
+    Checking branch [8mha:////4N7yrEsMxID4/t4kTaEzB1HBedXF7FWfxygj5Q9tk4OZAAAAqx+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgKWHQzigpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS7RLylKTdXPTczMAwDdzkCpsAAAAA==[0mmain
+
+  Getting remote pull requests from branch main...
+      ‘Jenkinsfile’ found
+    Met criteria
+Changes detected: main (514b47ada581e6809d37d4e6cf35cdbf7c623c59 → c1f96399803352ed97e1ab983633d0c1ebaaeb7b)
+Scheduled build for branch: main
+
+  1 branches were processed (query completed)
+
+  1 branches were processed
+
+Finished examining GalSh5/newtest
+
+[Mon Dec 13 07:53:39 UTC 2021] Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.88 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 07:53:34 UTC 2021 processed in 0.38 sec
+[Mon Dec 13 08:02:24 UTC 2021] Received Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.145 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 08:02:19 UTC 2021
+[8mha:////4DrMEf6VbBBfBoWaeqmOixwYe+H5Ke6W9csk2YcMvBRNAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtpgtF8gBRopqKjgAAAA==[0mConnecting to https://api.github.com with no credentials, anonymous access
+Examining [8mha:////4N3fXuYRp68VYalXJM+cxJzVdQVhz7dZ+LZ8slaNTzgiAAAAoR+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMjgK2FQzCgpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS4BAEt0vlOmAAAA[0mGalSh5/newtest
+
+  Checking branches...
+
+  Getting remote branch main...
+
+    Checking branch [8mha:////4N7yrEsMxID4/t4kTaEzB1HBedXF7FWfxygj5Q9tk4OZAAAAqx+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgKWHQzigpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS7RLylKTdXPTczMAwDdzkCpsAAAAA==[0mmain
+
+  Getting remote pull requests from branch main...
+      ‘Jenkinsfile’ found
+    Met criteria
+Changes detected: main (c1f96399803352ed97e1ab983633d0c1ebaaeb7b → 641d3b86dd78dbabb518097c60ef0bf496b8f052)
+Scheduled build for branch: main
+
+  1 branches were processed (query completed)
+
+  1 branches were processed
+
+Finished examining GalSh5/newtest
+
+[Mon Dec 13 08:02:25 UTC 2021] Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.145 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 08:02:19 UTC 2021 processed in 0.42 sec
+[Mon Dec 13 08:07:20 UTC 2021] Received Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.117 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 08:07:15 UTC 2021
+[8mha:////4BCzDuUcDbks0fID7ua5tp84XyUmRPOX6opn1Vj2nIcxAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtpitfBQEGKekejgAAAA==[0mConnecting to https://api.github.com with no credentials, anonymous access
+Examining [8mha:////4N3fXuYRp68VYalXJM+cxJzVdQVhz7dZ+LZ8slaNTzgiAAAAoR+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMjgK2FQzCgpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS4BAEt0vlOmAAAA[0mGalSh5/newtest
+
+  Checking branches...
+
+  Getting remote branch main...
+
+    Checking branch [8mha:////4N7yrEsMxID4/t4kTaEzB1HBedXF7FWfxygj5Q9tk4OZAAAAqx+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgKWHQzigpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS7RLylKTdXPTczMAwDdzkCpsAAAAA==[0mmain
+
+  Getting remote pull requests from branch main...
+      ‘Jenkinsfile’ found
+    Met criteria
+Changes detected: main (641d3b86dd78dbabb518097c60ef0bf496b8f052 → 3f173a93d839898622867442dba0c3cf7e805919)
+Scheduled build for branch: main
+
+  1 branches were processed (query completed)
+
+  1 branches were processed
+
+Finished examining GalSh5/newtest
+
+[Mon Dec 13 08:07:20 UTC 2021] Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.117 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 08:07:15 UTC 2021 processed in 0.39 sec
+[Mon Dec 13 08:08:58 UTC 2021] Received Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.109 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 08:08:53 UTC 2021
+[8mha:////4MWNOJ9ZEyphZPkkfu0x+qGxRlsecdkfYKUo6CzExoY1AAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtpmslFwBEppbTjgAAAA==[0mConnecting to https://api.github.com with no credentials, anonymous access
+Examining [8mha:////4N3fXuYRp68VYalXJM+cxJzVdQVhz7dZ+LZ8slaNTzgiAAAAoR+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMjgK2FQzCgpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS4BAEt0vlOmAAAA[0mGalSh5/newtest
+
+  Checking branches...
+
+  Getting remote branch main...
+
+    Checking branch [8mha:////4N7yrEsMxID4/t4kTaEzB1HBedXF7FWfxygj5Q9tk4OZAAAAqx+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgKWHQzigpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS7RLylKTdXPTczMAwDdzkCpsAAAAA==[0mmain
+
+  Getting remote pull requests from branch main...
+      ‘Jenkinsfile’ found
+    Met criteria
+Changes detected: main (3f173a93d839898622867442dba0c3cf7e805919 → b28ba5722938a1e2a34381dd69e27938c493285a)
+Scheduled build for branch: main
+
+  1 branches were processed (query completed)
+
+  1 branches were processed
+
+Finished examining GalSh5/newtest
+
+[Mon Dec 13 08:08:59 UTC 2021] Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.109 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 08:08:53 UTC 2021 processed in 0.3 sec
+[Mon Dec 13 08:16:27 UTC 2021] Received Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.150 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 08:16:22 UTC 2021
+[8mha:////4L1+R1eXl22JzA+x/5CurhVRy9LHcw/DKUjlMTZzctksAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtpru+TgB3NkbPjgAAAA==[0mConnecting to https://api.github.com with no credentials, anonymous access
+Examining [8mha:////4N3fXuYRp68VYalXJM+cxJzVdQVhz7dZ+LZ8slaNTzgiAAAAoR+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMjgK2FQzCgpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS4BAEt0vlOmAAAA[0mGalSh5/newtest
+
+  Checking branches...
+
+  Getting remote branch main...
+
+    Checking branch [8mha:////4N7yrEsMxID4/t4kTaEzB1HBedXF7FWfxygj5Q9tk4OZAAAAqx+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgKWHQzigpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS7RLylKTdXPTczMAwDdzkCpsAAAAA==[0mmain
+
+  Getting remote pull requests from branch main...
+      ‘Jenkinsfile’ found
+    Met criteria
+Changes detected: main (b28ba5722938a1e2a34381dd69e27938c493285a → 3040df400dfeb1ac1264dd960ad3c68c1209bf42)
+Scheduled build for branch: main
+
+  1 branches were processed (query completed)
+
+  1 branches were processed
+
+Finished examining GalSh5/newtest
+
+[Mon Dec 13 08:16:27 UTC 2021] Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.150 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 08:16:22 UTC 2021 processed in 0.38 sec
+[Mon Dec 13 08:22:11 UTC 2021] Received Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.117 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 08:22:06 UTC 2021
+[8mha:////4B1aONB3NbVoAbiNQtCumBl8YBXacHKaakKFoBR970y/AAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtpke97QCrdYXAjgAAAA==[0mConnecting to https://api.github.com with no credentials, anonymous access
+Examining [8mha:////4N3fXuYRp68VYalXJM+cxJzVdQVhz7dZ+LZ8slaNTzgiAAAAoR+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMjgK2FQzCgpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS4BAEt0vlOmAAAA[0mGalSh5/newtest
+
+  Checking branches...
+
+  Getting remote branch main...
+
+    Checking branch [8mha:////4N7yrEsMxID4/t4kTaEzB1HBedXF7FWfxygj5Q9tk4OZAAAAqx+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgKWHQzigpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS7RLylKTdXPTczMAwDdzkCpsAAAAA==[0mmain
+
+  Getting remote pull requests from branch main...
+      ‘Jenkinsfile’ found
+    Met criteria
+Changes detected: main (3040df400dfeb1ac1264dd960ad3c68c1209bf42 → c98fe5a800ef2fed5e832f1bf130f27d63d32862)
+Scheduled build for branch: main
+
+  1 branches were processed (query completed)
+
+  1 branches were processed
+
+Finished examining GalSh5/newtest
+
+[Mon Dec 13 08:22:11 UTC 2021] Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.117 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 08:22:06 UTC 2021 processed in 0.46 sec
+[Mon Dec 13 08:23:22 UTC 2021] Received Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.249 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 08:23:17 UTC 2021
+[8mha:////4CuYuMeFFFBMdba7au7C+b4OOupaMsg3Tpvf4U+wbvNxAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtpscLwwHmpqV+jgAAAA==[0mConnecting to https://api.github.com with no credentials, anonymous access
+Examining [8mha:////4N3fXuYRp68VYalXJM+cxJzVdQVhz7dZ+LZ8slaNTzgiAAAAoR+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMjgK2FQzCgpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS4BAEt0vlOmAAAA[0mGalSh5/newtest
+
+  Checking branches...
+
+  Getting remote branch main...
+
+    Checking branch [8mha:////4N7yrEsMxID4/t4kTaEzB1HBedXF7FWfxygj5Q9tk4OZAAAAqx+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgKWHQzigpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS7RLylKTdXPTczMAwDdzkCpsAAAAA==[0mmain
+
+  Getting remote pull requests from branch main...
+[8mha:////4N9/Pxy3CPHr6llajO+k5wOBMnuqEfXArX7s1LfCkITYAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtpseLpAGe+OIqjgAAAA==[0mJenkins-Imposed API Limiter: Current quota for Github API usage has 52 remaining (1 over budget). Next quota of 60 in 58 min. Sleeping for 4 min 12 sec.
+[Mon Dec 13 08:24:41 UTC 2021] Received Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.116 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 08:24:36 UTC 2021
+[8mha:////4HjCBJjiK19eKThQw4MSw6P9Uhy2R4FBmPQh8vo03V2IAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtpifXVADUf5jSjgAAAA==[0mConnecting to https://api.github.com with no credentials, anonymous access
+Examining [8mha:////4N3fXuYRp68VYalXJM+cxJzVdQVhz7dZ+LZ8slaNTzgiAAAAoR+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMjgK2FQzCgpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS4BAEt0vlOmAAAA[0mGalSh5/newtest
+
+  Checking branches...
+
+  Getting remote branch main...
+
+    Checking branch [8mha:////4N7yrEsMxID4/t4kTaEzB1HBedXF7FWfxygj5Q9tk4OZAAAAqx+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgKWHQzigpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS7RLylKTdXPTczMAwDdzkCpsAAAAA==[0mmain
+
+  Getting remote pull requests from branch main...
+[8mha:////4B3BXRnxUsLs9xfVODG1gLARa1Zl1wjjKAYglkarP+rNAAAAhR+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtpifXtgMAKr2eu44AAAA=[0mJenkins-Imposed API Limiter: Current quota for Github API usage has 51 remaining (1 over budget). Next quota of 60 in 57 min. Sleeping for 4 min 26 sec.
+[Mon Dec 13 08:26:18 UTC 2021] Received Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.118 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 08:26:13 UTC 2021
+[8mha:////4IIt7uj/yeKeLuamIuPUxM7AfxrRmz19lK6kr9+vuSGbAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtpmcB3gC+6MhhjgAAAA==[0mConnecting to https://api.github.com with no credentials, anonymous access
+Examining [8mha:////4N3fXuYRp68VYalXJM+cxJzVdQVhz7dZ+LZ8slaNTzgiAAAAoR+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMjgK2FQzCgpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS4BAEt0vlOmAAAA[0mGalSh5/newtest
+
+  Checking branches...
+
+  Getting remote branch main...
+[8mha:////4N9/Pxy3CPHr6llajO+k5wOBMnuqEfXArX7s1LfCkITYAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtpseLpAGe+OIqjgAAAA==[0mJenkins is attempting to evenly distribute GitHub API requests. To configure a different rate limiting strategy, such as having Jenkins restrict GitHub API requests only when near or above the GitHub rate limit, go to "GitHub API usage" under "Configure System" in the Jenkins settings.
+[Mon Dec 13 08:27:20 UTC 2021] Received Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.87 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 08:27:15 UTC 2021
+[8mha:////4JqA7d8MGVwvvJKIwvz+hRaoaZbagxwTaJk6+s7GkbgjAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtpueuTACpnb9YjgAAAA==[0mConnecting to https://api.github.com with no credentials, anonymous access
+Examining [8mha:////4N3fXuYRp68VYalXJM+cxJzVdQVhz7dZ+LZ8slaNTzgiAAAAoR+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMjgK2FQzCgpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS4BAEt0vlOmAAAA[0mGalSh5/newtest
+
+  Checking branches...
+
+  Getting remote branch main...
+
+    Checking branch [8mha:////4N7yrEsMxID4/t4kTaEzB1HBedXF7FWfxygj5Q9tk4OZAAAAqx+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgKWHQzigpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS7RLylKTdXPTczMAwDdzkCpsAAAAA==[0mmain
+
+  Getting remote pull requests from branch main...
+      ‘Jenkinsfile’ found
+    Met criteria
+Changes detected: main (c98fe5a800ef2fed5e832f1bf130f27d63d32862 → 1e6957aafb1d41a70d286f1b311bea2fd26e754f)
+Scheduled build for branch: main
+
+  1 branches were processed (query completed)
+
+  1 branches were processed
+
+Finished examining GalSh5/newtest
+
+[Mon Dec 13 08:27:20 UTC 2021] Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.87 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 08:27:15 UTC 2021 processed in 0.31 sec
+[8mha:////4A0snooAAtHbakFp034zjBK80ZWQK0bUfa+IKmsKWjwsAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtpmepZgCJJ03tjgAAAA==[0mJenkins-Imposed API Limiter: Still sleeping, now only 1 min 10 sec remaining.
+      ‘Jenkinsfile’ found
+    Met criteria
+Changes detected: main (1e6957aafb1d41a70d286f1b311bea2fd26e754f → 5ea99f0a4825f9ce29e215493ffbaa6c7f3d2c0b)
+Scheduled build for branch: main
+
+  1 branches were processed (query completed)
+
+  1 branches were processed
+
+Finished examining GalSh5/newtest
+
+[Mon Dec 13 08:27:35 UTC 2021] Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.249 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 08:23:17 UTC 2021 processed in 4 min 13 sec
+[8mha:////4Oq5orMJWrYNb7ajEPBuMLWpVCsda+yJIW8FFVY1Ska6AAAAhR+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtpifXdgAAu6AhK44AAAA=[0mJenkins is attempting to evenly distribute GitHub API requests. To configure a different rate limiting strategy, such as having Jenkins restrict GitHub API requests only when near or above the GitHub rate limit, go to "GitHub API usage" under "Configure System" in the Jenkins settings.
+[8mha:////4MIRFWOrVjTOTPcu8AgtiPIOT4GG25fUx+iA5sOVycmIAAAAhR+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtpuczrwAAW2CCGo4AAAA=[0mJenkins-Imposed API Limiter: Still sleeping, now only 1 min 24 sec remaining.
+      ‘Jenkinsfile’ found
+    Met criteria
+Changes detected: main (5ea99f0a4825f9ce29e215493ffbaa6c7f3d2c0b → fc5a01dbe61bc78c0f867e20ba86e236b7f8ff56)
+Scheduled build for branch: main
+
+  1 branches were processed (query completed)
+
+  1 branches were processed
+
+Finished examining GalSh5/newtest
+
+[Mon Dec 13 08:29:08 UTC 2021] Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.116 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 08:24:36 UTC 2021 processed in 4 min 27 sec
+[8mha:////4PM5OkNMaAi3WQKvxPrHljovmQAmHoDvp6qt8dMoTHUcAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtpmcBkwDOgseejgAAAA==[0mJenkins-Imposed API Limiter: Current quota for Github API usage has 50 remaining (1 over budget). Next quota of 60 in 55 min. Sleeping for 4 min 22 sec.
+[8mha:////4Evd+pDtcdVxMR/I57uMakMawS/b4d85UIio/vFYKWNuAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtpmcBkwFYssDpjgAAAA==[0mJenkins is attempting to evenly distribute GitHub API requests. To configure a different rate limiting strategy, such as having Jenkins restrict GitHub API requests only when near or above the GitHub rate limit, go to "GitHub API usage" under "Configure System" in the Jenkins settings.
+[8mha:////4GXo9alqtJLmvRNDwiSh/cegRcM9aYhlnYwRcHayz7EPAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtppfCqwE9UcoRjgAAAA==[0mJenkins-Imposed API Limiter: Still sleeping, now only 1 min 20 sec remaining.
+[Mon Dec 13 08:33:21 UTC 2021] Received Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.117 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 08:33:16 UTC 2021
+[8mha:////4Hd7EkFLfmiSj7TDrlboPaLq+6aGePfdyrE4eeYA0WWfAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtpjfHigFq+EZjjgAAAA==[0mConnecting to https://api.github.com with no credentials, anonymous access
+[8mha:////4L7pnIvC2yFnkT0Yf+CPt8Ms/myCKwdeVg0naikfYGNwAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtpjfHSgDJbSL9jgAAAA==[0mJenkins-Imposed API Limiter: Current quota for Github API usage has 45 remaining (1 over budget). Next quota of 60 in 48 min. Sleeping for 5 min 0 sec.
+[8mha:////4Bq9UJihaZCV1vgEwEgzRJFcTvRCen5gIlzWHjnq8IJfAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtplfB2wEu/PT3jgAAAA==[0mJenkins-Imposed API Limiter: Current quota for Github API usage has 45 remaining (3 over budget). Next quota of 60 in 51 min. Sleeping for 7 min 42 sec.
+[8mha:////4AksoU9S2s7D1SqpHk0al1MfNVgiCOBZO+eL16IapgR8AAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtplfBBwCxGJU5jgAAAA==[0mJenkins is attempting to evenly distribute GitHub API requests. To configure a different rate limiting strategy, such as having Jenkins restrict GitHub API requests only when near or above the GitHub rate limit, go to "GitHub API usage" under "Configure System" in the Jenkins settings.
+[8mha:////4L7pnIvC2yFnkT0Yf+CPt8Ms/myCKwdeVg0naikfYGNwAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtpjfHSgDJbSL9jgAAAA==[0mJenkins is attempting to evenly distribute GitHub API requests. To configure a different rate limiting strategy, such as having Jenkins restrict GitHub API requests only when near or above the GitHub rate limit, go to "GitHub API usage" under "Configure System" in the Jenkins settings.
+[8mha:////4HUQtrS0UJ4mPWN5bDvD1LqDP9PKrUrQ8wyKU/4+UezKAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtprdiDwC8lbqKjgAAAA==[0mJenkins-Imposed API Limiter: Still sleeping, now only 4 min 39 sec remaining.
+[8mha:////4MVYPQ2oqOvz+p8ESX/ZNiMYDloLgQDr9tcc8I7EMN0LAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtpvedlwERtjfAjgAAAA==[0mJenkins-Imposed API Limiter: Still sleeping, now only 1 min 58 sec remaining.
+Examining [8mha:////4N3fXuYRp68VYalXJM+cxJzVdQVhz7dZ+LZ8slaNTzgiAAAAoR+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMjgK2FQzCgpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS4BAEt0vlOmAAAA[0mGalSh5/newtest
+
+  Checking branches...
+
+  Getting remote branch main...
+
+    Checking branch [8mha:////4N7yrEsMxID4/t4kTaEzB1HBedXF7FWfxygj5Q9tk4OZAAAAqx+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgKWHQzigpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS7RLylKTdXPTczMAwDdzkCpsAAAAA==[0mmain
+
+  Getting remote pull requests from branch main...
+      ‘Jenkinsfile’ found
+    Met criteria
+Changes detected: main (fc5a01dbe61bc78c0f867e20ba86e236b7f8ff56 → e74b8f50d3976eb30cc1d2fa793867b6a8570574)
+Scheduled build for branch: main
+
+  1 branches were processed (query completed)
+
+  1 branches were processed
+
+Finished examining GalSh5/newtest
+
+[Mon Dec 13 08:38:22 UTC 2021] Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.117 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 08:33:16 UTC 2021 processed in 5 min 1 sec
+[8mha:////4CkXQJ/MXMdm9l7IZEzC3tLtco0LxBONPf69ualLcm0oAAAAhR+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtpvc3fwAABRIw1o4AAAA=[0mJenkins-Imposed API Limiter: Still sleeping, now only 1 min 38 sec remaining.
+[Mon Dec 13 08:39:21 UTC 2021] Received Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.116 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 08:39:16 UTC 2021
+[8mha:////4MhuYRhA4kYV3Cbwl65dt6LTf0i+mFVsm4sBx5/vCy7DAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtpk9OFwAN2c5ljgAAAA==[0mConnecting to https://api.github.com with no credentials, anonymous access
+Examining [8mha:////4N3fXuYRp68VYalXJM+cxJzVdQVhz7dZ+LZ8slaNTzgiAAAAoR+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMjgK2FQzCgpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS4BAEt0vlOmAAAA[0mGalSh5/newtest
+
+  Checking branches...
+
+  Getting remote branch main...
+[8mha:////4PIb7l5K7nma2gjzVirTMDA8Q37b1mVRQ/r3XbP/lvDbAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtpo8JNQC3zlofjgAAAA==[0mJenkins-Imposed API Limiter: Current quota for Github API usage has 42 remaining (1 over budget). Next quota of 60 in 43 min. Sleeping for 4 min 36 sec.
+[8mha:////4EtRlHqTFa/FH71BsDP7Suf4MBkL/spA3yoUtKQiY0LFAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtpo8JtQAh/l1ojgAAAA==[0mJenkins is attempting to evenly distribute GitHub API requests. To configure a different rate limiting strategy, such as having Jenkins restrict GitHub API requests only when near or above the GitHub rate limit, go to "GitHub API usage" under "Configure System" in the Jenkins settings.
+[8mha:////4AB6orV3y9Ihy1mwInOLwYtHJqSALZRvD2gkrr5erO9dAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtpk/OPgAjN2yFjgAAAA==[0mJenkins-Imposed API Limiter: Current quota for Github API usage has 41 remaining (1 over budget). Next quota of 60 in 42 min. Sleeping for 5 min 11 sec.
+[8mha:////4GPOt5sfwXxW17K4LXzF8psQ7sYNDr0gEV1WAha8jIHrAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtpk/OfgAPVmJrjgAAAA==[0mJenkins is attempting to evenly distribute GitHub API requests. To configure a different rate limiting strategy, such as having Jenkins restrict GitHub API requests only when near or above the GitHub rate limit, go to "GitHub API usage" under "Configure System" in the Jenkins settings.
+[8mha:////4PAS5zK4Mgr+uJibsUyPelsZzynfYtNg1Yy1l3ZR0E0sAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtpi/KXwCIG6YhjgAAAA==[0mJenkins-Imposed API Limiter: Still sleeping, now only 1 min 34 sec remaining.
+
+    Checking branch [8mha:////4N7yrEsMxID4/t4kTaEzB1HBedXF7FWfxygj5Q9tk4OZAAAAqx+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgKWHQzigpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS7RLylKTdXPTczMAwDdzkCpsAAAAA==[0mmain
+
+  Getting remote pull requests from branch main...
+      ‘Jenkinsfile’ found
+    Met criteria
+Changes detected: main (e74b8f50d3976eb30cc1d2fa793867b6a8570574 → f70f3bfae11f887bce88459cc16097688ef59055)
+Scheduled build for branch: main
+
+  1 branches were processed (query completed)
+
+  1 branches were processed
+
+Finished examining GalSh5/newtest
+
+[Mon Dec 13 08:42:59 UTC 2021] Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.118 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 08:26:13 UTC 2021 processed in 16 min
+[8mha:////4DWeNqyxr82JLj9wKLbypXSbFynmrD2Afu8XjjDldFv7AAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtpq9s6QCmY5GhjgAAAA==[0mJenkins-Imposed API Limiter: Still sleeping, now only 2 min 9 sec remaining.
+[8mha:////4P1zigBX56iC/urUawx1IrkaFg+X2QRg3VEhyyAanEjfAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtpu9M1wFAwRgNjgAAAA==[0mJenkins-Imposed API Limiter: Current quota for Github API usage has 36 remaining (3 over budget). Next quota of 60 in 37 min. Sleeping for 7 min 42 sec.
+[8mha:////4Npl4r0t0ZTvI8+1nfLhQlubGulUMN5hWZSAUqmuzg8QAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtpu9MtwD9valzjgAAAA==[0mJenkins is attempting to evenly distribute GitHub API requests. To configure a different rate limiting strategy, such as having Jenkins restrict GitHub API requests only when near or above the GitHub rate limit, go to "GitHub API usage" under "Configure System" in the Jenkins settings.
+[8mha:////4LzGdOIzUicaVfAkQKydV6i8LedvY1Zo35Xz//4eFVqpAAAAhR+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtpp9HvwIAJ+xdVo4AAAA=[0mJenkins-Imposed API Limiter: Still sleeping, now only 4 min 40 sec remaining.
+[8mha:////4J507viLLDPqZj9ZZqmqXGxJARi15YbguUn0p5mwpxc+AAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtpj+dQgAeWTQyjgAAAA==[0mJenkins-Imposed API Limiter: Still sleeping, now only 1 min 39 sec remaining.
+
+    Checking branch [8mha:////4N7yrEsMxID4/t4kTaEzB1HBedXF7FWfxygj5Q9tk4OZAAAAqx+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgKWHQzigpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS7RLylKTdXPTczMAwDdzkCpsAAAAA==[0mmain
+
+  Getting remote pull requests from branch main...
+      ‘Jenkinsfile’ found
+    Met criteria
+No changes detected: main (still at f70f3bfae11f887bce88459cc16097688ef59055)
+
+  1 branches were processed (query completed)
+
+  1 branches were processed
+
+Finished examining GalSh5/newtest
+
+[Mon Dec 13 08:52:14 UTC 2021] Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.116 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 08:39:16 UTC 2021 processed in 12 min
+[Mon Dec 13 08:56:50 UTC 2021] Received Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.89 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 08:56:45 UTC 2021
+[8mha:////4J+CS0nTcNeWGSw2ZRAOKBcW7BZoQOJw2Vn5QRAK+qWxAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtZibXOgCQ1ZkWjgAAAA==[0mConnecting to https://api.github.com with no credentials, anonymous access
+Examining [8mha:////4N3fXuYRp68VYalXJM+cxJzVdQVhz7dZ+LZ8slaNTzgiAAAAoR+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMjgK2FQzCgpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS4BAEt0vlOmAAAA[0mGalSh5/newtest
+
+  Checking branches...
+
+  Getting remote branch main...
+
+    Checking branch [8mha:////4N7yrEsMxID4/t4kTaEzB1HBedXF7FWfxygj5Q9tk4OZAAAAqx+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgKWHQzigpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS7RLylKTdXPTczMAwDdzkCpsAAAAA==[0mmain
+
+  Getting remote pull requests from branch main...
+      ‘Jenkinsfile’ found
+    Met criteria
+Changes detected: main (f70f3bfae11f887bce88459cc16097688ef59055 → 493d54f65395d2f77f67412f2ccba43d3bba08c4)
+Scheduled build for branch: main
+
+  1 branches were processed (query completed)
+
+  1 branches were processed
+
+Finished examining GalSh5/newtest
+
+[Mon Dec 13 08:56:50 UTC 2021] Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.89 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 08:56:45 UTC 2021 processed in 0.38 sec
+[Mon Dec 13 09:08:59 UTC 2021] Received Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.117 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 09:08:54 UTC 2021
+[8mha:////4PoEkQ48H4mTDi9sZH27bqRgSMutH245yRAP80lccdhkAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtZt5UaQDYI5m1jgAAAA==[0mConnecting to https://api.github.com with no credentials, anonymous access
+Examining [8mha:////4N3fXuYRp68VYalXJM+cxJzVdQVhz7dZ+LZ8slaNTzgiAAAAoR+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMjgK2FQzCgpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS4BAEt0vlOmAAAA[0mGalSh5/newtest
+
+  Checking branches...
+
+  Getting remote branch main...
+
+    Checking branch [8mha:////4N7yrEsMxID4/t4kTaEzB1HBedXF7FWfxygj5Q9tk4OZAAAAqx+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgKWHQzigpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS7RLylKTdXPTczMAwDdzkCpsAAAAA==[0mmain
+
+  Getting remote pull requests from branch main...
+      ‘Jenkinsfile’ found
+    Met criteria
+Changes detected: main (493d54f65395d2f77f67412f2ccba43d3bba08c4 → ca4180ecf43eeb94167c9a45482aab1748a05fff)
+Scheduled build for branch: main
+
+  1 branches were processed (query completed)
+
+  1 branches were processed
+
+Finished examining GalSh5/newtest
+
+[Mon Dec 13 09:08:59 UTC 2021] Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.117 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 09:08:54 UTC 2021 processed in 0.4 sec
+[Mon Dec 13 09:09:39 UTC 2021] Received Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.144 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 09:09:34 UTC 2021
+[8mha:////4A8Oq082McSVN4trxYf/FKIhmBZAXQBSimWLQVu/t7SQAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtZj5GHgDltp01jgAAAA==[0mConnecting to https://api.github.com with no credentials, anonymous access
+Examining [8mha:////4N3fXuYRp68VYalXJM+cxJzVdQVhz7dZ+LZ8slaNTzgiAAAAoR+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMjgK2FQzCgpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS4BAEt0vlOmAAAA[0mGalSh5/newtest
+
+  Checking branches...
+
+  Getting remote branch main...
+
+    Checking branch [8mha:////4N7yrEsMxID4/t4kTaEzB1HBedXF7FWfxygj5Q9tk4OZAAAAqx+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgKWHQzigpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS7RLylKTdXPTczMAwDdzkCpsAAAAA==[0mmain
+
+  Getting remote pull requests from branch main...
+      ‘Jenkinsfile’ found
+    Met criteria
+Changes detected: main (ca4180ecf43eeb94167c9a45482aab1748a05fff → 23f75a2dde20747917649ae0fa89e097f3fd5d6c)
+Scheduled build for branch: main
+
+  1 branches were processed (query completed)
+
+  1 branches were processed
+
+Finished examining GalSh5/newtest
+
+[Mon Dec 13 09:09:39 UTC 2021] Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.144 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 09:09:34 UTC 2021 processed in 0.26 sec
+[Mon Dec 13 09:13:32 UTC 2021] Received Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.145 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 09:13:27 UTC 2021
+[8mha:////4Gc4V1vEX3AeNqOP4fhdwxI+1yLG7WCyRSH7lQ7VV5EGAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtZsG+FQDdsUdPjgAAAA==[0mConnecting to https://api.github.com with no credentials, anonymous access
+Examining [8mha:////4N3fXuYRp68VYalXJM+cxJzVdQVhz7dZ+LZ8slaNTzgiAAAAoR+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMjgK2FQzCgpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS4BAEt0vlOmAAAA[0mGalSh5/newtest
+
+  Checking branches...
+
+  Getting remote branch main...
+
+    Checking branch [8mha:////4N7yrEsMxID4/t4kTaEzB1HBedXF7FWfxygj5Q9tk4OZAAAAqx+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgKWHQzigpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS7RLylKTdXPTczMAwDdzkCpsAAAAA==[0mmain
+
+  Getting remote pull requests from branch main...
+      ‘Jenkinsfile’ found
+    Met criteria
+Changes detected: main (23f75a2dde20747917649ae0fa89e097f3fd5d6c → 0d472e90749434ff865e8992837abc154e1dbf4e)
+Scheduled build for branch: main
+
+  1 branches were processed (query completed)
+
+  1 branches were processed
+
+Finished examining GalSh5/newtest
+
+[Mon Dec 13 09:13:32 UTC 2021] Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.145 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 09:13:27 UTC 2021 processed in 0.36 sec
+[Mon Dec 13 09:15:49 UTC 2021] Received Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.126 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 09:15:44 UTC 2021
+[8mha:////4FRpRMpRglPfYl9DQsyihgrorL6CCG2IDuP3u0kh2KWvAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtZuEV1wE6iqdPjgAAAA==[0mConnecting to https://api.github.com with no credentials, anonymous access
+[8mha:////4FRpRMpRglPfYl9DQsyihgrorL6CCG2IDuP3u0kh2KWvAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtZuEV1wE6iqdPjgAAAA==[0mJenkins-Imposed API Limiter: Current quota for Github API usage has 18 remaining (1 over budget). Next quota of 60 in 6 min 23 sec. Sleeping for 4 min 5 sec.
+[Mon Dec 13 09:18:14 UTC 2021] Received Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.100 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 09:18:09 UTC 2021
+[8mha:////4FbQtjZL6w1HWhVMTgA1oCKFWByrQC11RRibbM0pKcVBAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtZtE7dwDyk6uXjgAAAA==[0mConnecting to https://api.github.com with no credentials, anonymous access
+Examining [8mha:////4N3fXuYRp68VYalXJM+cxJzVdQVhz7dZ+LZ8slaNTzgiAAAAoR+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMjgK2FQzCgpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS4BAEt0vlOmAAAA[0mGalSh5/newtest
+
+  Checking branches...
+
+  Getting remote branch main...
+
+    Checking branch [8mha:////4N7yrEsMxID4/t4kTaEzB1HBedXF7FWfxygj5Q9tk4OZAAAAqx+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgKWHQzigpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS7RLylKTdXPTczMAwDdzkCpsAAAAA==[0mmain
+
+  Getting remote pull requests from branch main...
+      ‘Jenkinsfile’ found
+    Met criteria
+Changes detected: main (0d472e90749434ff865e8992837abc154e1dbf4e → 4b8989fa44edd8e0616ec3a6dea6af94b0b7a771)
+Scheduled build for branch: main
+
+  1 branches were processed (query completed)
+
+  1 branches were processed
+
+Finished examining GalSh5/newtest
+
+[Mon Dec 13 09:18:14 UTC 2021] Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.100 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 09:18:09 UTC 2021 processed in 0.29 sec
+[8mha:////4FRpRMpRglPfYl9DQsyihgrorL6CCG2IDuP3u0kh2KWvAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtZuEV1wE6iqdPjgAAAA==[0mJenkins is attempting to evenly distribute GitHub API requests. To configure a different rate limiting strategy, such as having Jenkins restrict GitHub API requests only when near or above the GitHub rate limit, go to "GitHub API usage" under "Configure System" in the Jenkins settings.
+[8mha:////4OACJ9muuB6pzrCVWiJw9hcN83sMe3jfs4Th3xY4tI2RAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtZrEcCQC6hSHtjgAAAA==[0mJenkins-Imposed API Limiter: Still sleeping, now only 1 min 3 sec remaining.
+[8mha:////4DZBcVS5jzeceXsQ1xtreYCQ/NZKMafEqeL2HiyF+ckDAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtZvHM2QBSySXljgAAAA==[0mJenkins-Imposed API Limiter: Current quota for Github API usage has 14 remaining (1 over budget). Next quota of 60 in 2 min 16 sec. Sleeping until reset.
+[8mha:////4DZBcVS5jzeceXsQ1xtreYCQ/NZKMafEqeL2HiyF+ckDAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtZvHM2QBSySXljgAAAA==[0mJenkins is attempting to evenly distribute GitHub API requests. To configure a different rate limiting strategy, such as having Jenkins restrict GitHub API requests only when near or above the GitHub rate limit, go to "GitHub API usage" under "Configure System" in the Jenkins settings.
+Examining [8mha:////4N3fXuYRp68VYalXJM+cxJzVdQVhz7dZ+LZ8slaNTzgiAAAAoR+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMjgK2FQzCgpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS4BAEt0vlOmAAAA[0mGalSh5/newtest
+
+  Checking branches...
+
+  Getting remote branch main...
+
+    Checking branch [8mha:////4N7yrEsMxID4/t4kTaEzB1HBedXF7FWfxygj5Q9tk4OZAAAAqx+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgKWHQzigpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS7RLylKTdXPTczMAwDdzkCpsAAAAA==[0mmain
+
+  Getting remote pull requests from branch main...
+      ‘Jenkinsfile’ found
+    Met criteria
+No changes detected: main (still at 4b8989fa44edd8e0616ec3a6dea6af94b0b7a771)
+
+  1 branches were processed (query completed)
+
+  1 branches were processed
+
+Finished examining GalSh5/newtest
+
+[Mon Dec 13 09:22:34 UTC 2021] Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.126 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 09:15:44 UTC 2021 processed in 6 min 44 sec
+[Mon Dec 13 09:51:45 UTC 2021] Received Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.116 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 09:51:40 UTC 2021
+[8mha:////4KFUnueT9Vsr3N2xnVpIbQDtYctbK4o95xUFKcfJwqCCAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtZpOeAgCyDf/LjgAAAA==[0mConnecting to https://api.github.com with no credentials, anonymous access
+Examining [8mha:////4N3fXuYRp68VYalXJM+cxJzVdQVhz7dZ+LZ8slaNTzgiAAAAoR+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMjgK2FQzCgpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS4BAEt0vlOmAAAA[0mGalSh5/newtest
+
+  Checking branches...
+
+  Getting remote branch main...
+
+    Checking branch [8mha:////4N7yrEsMxID4/t4kTaEzB1HBedXF7FWfxygj5Q9tk4OZAAAAqx+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgKWHQzigpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS7RLylKTdXPTczMAwDdzkCpsAAAAA==[0mmain
+
+  Getting remote pull requests from branch main...
+      ‘Jenkinsfile’ found
+    Met criteria
+Changes detected: main (4b8989fa44edd8e0616ec3a6dea6af94b0b7a771 → a33e4bda9543f9fa24e7e182638e8f87be53689a)
+Scheduled build for branch: main
+
+  1 branches were processed (query completed)
+
+  1 branches were processed
+
+Finished examining GalSh5/newtest
+
+[Mon Dec 13 09:51:45 UTC 2021] Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.116 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 09:51:40 UTC 2021 processed in 0.44 sec
+[Mon Dec 13 10:01:08 UTC 2021] Received Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.117 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 10:01:03 UTC 2021
+[8mha:////4M+uY6o0LX2pG7Qtey3i1ACbKjRNqWwxr+ptWfByrARhAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtZluVfgBR7/KPjgAAAA==[0mConnecting to https://api.github.com with no credentials, anonymous access
+Examining [8mha:////4N3fXuYRp68VYalXJM+cxJzVdQVhz7dZ+LZ8slaNTzgiAAAAoR+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMjgK2FQzCgpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS4BAEt0vlOmAAAA[0mGalSh5/newtest
+
+  Checking branches...
+
+  Getting remote branch main...
+
+    Checking branch [8mha:////4N7yrEsMxID4/t4kTaEzB1HBedXF7FWfxygj5Q9tk4OZAAAAqx+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgKWHQzigpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS7RLylKTdXPTczMAwDdzkCpsAAAAA==[0mmain
+
+  Getting remote pull requests from branch main...
+      ‘Jenkinsfile’ found
+    Met criteria
+Changes detected: main (a33e4bda9543f9fa24e7e182638e8f87be53689a → 60817c7d6e0f5cc0f73fbf42d4731b43ec43832d)
+Scheduled build for branch: main
+
+  1 branches were processed (query completed)
+
+  1 branches were processed
+
+Finished examining GalSh5/newtest
+
+[Mon Dec 13 10:01:08 UTC 2021] Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.117 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 10:01:03 UTC 2021 processed in 0.44 sec
+[Mon Dec 13 10:02:46 UTC 2021] Received Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.251 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 10:02:41 UTC 2021
+[8mha:////4GhM4V46WM7RV1BCOoFqd1N1XD7H7K99P09zWGCSq5cmAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtZrtFugABrLXYjgAAAA==[0mConnecting to https://api.github.com with no credentials, anonymous access
+Examining [8mha:////4N3fXuYRp68VYalXJM+cxJzVdQVhz7dZ+LZ8slaNTzgiAAAAoR+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMjgK2FQzCgpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS4BAEt0vlOmAAAA[0mGalSh5/newtest
+
+  Checking branches...
+
+  Getting remote branch main...
+
+    Checking branch [8mha:////4N7yrEsMxID4/t4kTaEzB1HBedXF7FWfxygj5Q9tk4OZAAAAqx+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgKWHQzigpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS7RLylKTdXPTczMAwDdzkCpsAAAAA==[0mmain
+
+  Getting remote pull requests from branch main...
+      ‘Jenkinsfile’ found
+    Met criteria
+Changes detected: main (60817c7d6e0f5cc0f73fbf42d4731b43ec43832d → 4e931f118ef7dea3f47b85c900a18d17e03dbcd2)
+Scheduled build for branch: main
+
+  1 branches were processed (query completed)
+
+  1 branches were processed
+
+Finished examining GalSh5/newtest
+
+[Mon Dec 13 10:02:46 UTC 2021] Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.251 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 10:02:41 UTC 2021 processed in 0.28 sec
+[Mon Dec 13 10:07:53 UTC 2021] Received Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.145 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 10:07:48 UTC 2021
+[8mha:////4C/ECE9fov1t/lIrlCMJPSg1pHtSlH6tnBOchoQovwF+AAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtZufgdABwLzIfjgAAAA==[0mConnecting to https://api.github.com with no credentials, anonymous access
+Examining [8mha:////4N3fXuYRp68VYalXJM+cxJzVdQVhz7dZ+LZ8slaNTzgiAAAAoR+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMjgK2FQzCgpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS4BAEt0vlOmAAAA[0mGalSh5/newtest
+
+  Checking branches...
+
+  Getting remote branch main...
+
+    Checking branch [8mha:////4N7yrEsMxID4/t4kTaEzB1HBedXF7FWfxygj5Q9tk4OZAAAAqx+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgKWHQzigpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS7RLylKTdXPTczMAwDdzkCpsAAAAA==[0mmain
+
+  Getting remote pull requests from branch main...
+      ‘Jenkinsfile’ found
+    Met criteria
+Changes detected: main (4e931f118ef7dea3f47b85c900a18d17e03dbcd2 → 66504459f81d72e464c40823e647adc812b33996)
+Scheduled build for branch: main
+
+  1 branches were processed (query completed)
+
+  1 branches were processed
+
+Finished examining GalSh5/newtest
+
+[Mon Dec 13 10:07:54 UTC 2021] Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.145 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 10:07:48 UTC 2021 processed in 0.35 sec
+[Mon Dec 13 10:13:16 UTC 2021] Received Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.117 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 10:13:10 UTC 2021
+[8mha:////4N76OyDG8ZZTNHB0JkvzaNpSayacr57Deku5qpMRdNkBAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtZg/nCgA1363UjgAAAA==[0mConnecting to https://api.github.com with no credentials, anonymous access
+Examining [8mha:////4N3fXuYRp68VYalXJM+cxJzVdQVhz7dZ+LZ8slaNTzgiAAAAoR+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMjgK2FQzCgpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS4BAEt0vlOmAAAA[0mGalSh5/newtest
+
+  Checking branches...
+
+  Getting remote branch main...
+
+    Checking branch [8mha:////4N7yrEsMxID4/t4kTaEzB1HBedXF7FWfxygj5Q9tk4OZAAAAqx+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgKWHQzigpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS7RLylKTdXPTczMAwDdzkCpsAAAAA==[0mmain
+
+  Getting remote pull requests from branch main...
+      ‘Jenkinsfile’ found
+    Met criteria
+Changes detected: main (66504459f81d72e464c40823e647adc812b33996 → 4ca0c5d7e44e2971d4f4b7cb9375ce47bf8004a5)
+Scheduled build for branch: main
+
+  1 branches were processed (query completed)
+
+  1 branches were processed
+
+Finished examining GalSh5/newtest
+
+[Mon Dec 13 10:13:17 UTC 2021] Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.117 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 10:13:10 UTC 2021 processed in 1.7 sec
+[Mon Dec 13 10:17:00 UTC 2021] Received Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.100 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 10:16:55 UTC 2021
+[8mha:////4G/Qu+NDaU+6N00Cpo+8Z3w8GczD7U5gkMVdssTiAbBeAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtZu+VWQBCC8OBjgAAAA==[0mConnecting to https://api.github.com with no credentials, anonymous access
+Examining [8mha:////4N3fXuYRp68VYalXJM+cxJzVdQVhz7dZ+LZ8slaNTzgiAAAAoR+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMjgK2FQzCgpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS4BAEt0vlOmAAAA[0mGalSh5/newtest
+
+  Checking branches...
+
+  Getting remote branch main...
+
+    Checking branch [8mha:////4N7yrEsMxID4/t4kTaEzB1HBedXF7FWfxygj5Q9tk4OZAAAAqx+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgKWHQzigpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS7RLylKTdXPTczMAwDdzkCpsAAAAA==[0mmain
+
+  Getting remote pull requests from branch main...
+[8mha:////4G8+88K46QEGpWFWTxaQ8hMxDSRuMHKc3K5C+8LMCO6dAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtZu9VCQCfsTtKjgAAAA==[0mJenkins-Imposed API Limiter: Current quota for Github API usage has 36 remaining (1 over budget). Next quota of 60 in 34 min. Sleeping for 4 min 45 sec.
+[Mon Dec 13 10:19:18 UTC 2021] Received Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.96 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 10:19:13 UTC 2021
+[8mha:////4IdTr0l7lIuFY61kqKy1tUrsWjBUObHN+eUGoOZ0ZguwAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtZt+jwQBT2wMTjgAAAA==[0mConnecting to https://api.github.com with no credentials, anonymous access
+[8mha:////4IdTr0l7lIuFY61kqKy1tUrsWjBUObHN+eUGoOZ0ZguwAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtZt+jwQBT2wMTjgAAAA==[0mJenkins-Imposed API Limiter: Current quota for Github API usage has 35 remaining (1 over budget). Next quota of 60 in 32 min. Sleeping for 4 min 0 sec.
+[8mha:////4G8+88K46QEGpWFWTxaQ8hMxDSRuMHKc3K5C+8LMCO6dAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtZu9VCQCfsTtKjgAAAA==[0mJenkins is attempting to evenly distribute GitHub API requests. To configure a different rate limiting strategy, such as having Jenkins restrict GitHub API requests only when near or above the GitHub rate limit, go to "GitHub API usage" under "Configure System" in the Jenkins settings.
+[8mha:////4F3CP8jNNIbY+wYgwqEJZy6pNiQaPk4wyVEeVIHaEbWKAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtZr/cJgCpsU+GjgAAAA==[0mJenkins-Imposed API Limiter: Still sleeping, now only 1 min 43 sec remaining.
+      ‘Jenkinsfile’ found
+    Met criteria
+Changes detected: main (4ca0c5d7e44e2971d4f4b7cb9375ce47bf8004a5 → b7ea8241c3ac8d6e593dfd6cb21ae3c4a8c88af5)
+Scheduled build for branch: main
+
+  1 branches were processed (query completed)
+
+  1 branches were processed
+
+Finished examining GalSh5/newtest
+
+[Mon Dec 13 10:21:46 UTC 2021] Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.100 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 10:16:55 UTC 2021 processed in 4 min 46 sec
+[8mha:////4A92rb6r+DtA6C0B3sMn8nLbyrcqFIAMFSUVRjqJas5/AAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtZt+jIQDwTmeNjgAAAA==[0mJenkins is attempting to evenly distribute GitHub API requests. To configure a different rate limiting strategy, such as having Jenkins restrict GitHub API requests only when near or above the GitHub rate limit, go to "GitHub API usage" under "Configure System" in the Jenkins settings.
+[8mha:////4Ha8/hnMBodwie2JAsr7qCUfA5D9WzrvI+qS3B9kb0DpAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTt5oBOdgCUfjc3jgAAAA==[0mJenkins-Imposed API Limiter: Still sleeping, now only 57 sec remaining.
+Examining [8mha:////4N3fXuYRp68VYalXJM+cxJzVdQVhz7dZ+LZ8slaNTzgiAAAAoR+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMjgK2FQzCgpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS4BAEt0vlOmAAAA[0mGalSh5/newtest
+
+  Checking branches...
+
+  Getting remote branch main...
+
+    Checking branch [8mha:////4N7yrEsMxID4/t4kTaEzB1HBedXF7FWfxygj5Q9tk4OZAAAAqx+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgKWHQzigpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS7RLylKTdXPTczMAwDdzkCpsAAAAA==[0mmain
+
+  Getting remote pull requests from branch main...
+[Mon Dec 13 10:23:35 UTC 2021] Received Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.251 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 10:23:30 UTC 2021
+[8mha:////4FP2IAlt1VxF1kkTfFq8UKsFUbzogUCHjAo8waI6hK4EAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTt5sANNQCtMab/jgAAAA==[0mConnecting to https://api.github.com with no credentials, anonymous access
+[8mha:////4M3uxAJd+wXicidmN9chRAp7dxf2coQ5Q1qkBC1+rAeVAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTt5sANtQA7AaGIjgAAAA==[0mJenkins-Imposed API Limiter: Current quota for Github API usage has 32 remaining (1 over budget). Next quota of 60 in 28 min. Sleeping for 4 min 20 sec.
+[8mha:////4HKDoSgwqJ9B88w47ZAZWf+e4Av10cn2/A1ekYYQGDGaAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTt5sCCIAAs64rojgAAAA==[0mJenkins-Imposed API Limiter: Current quota for Github API usage has 32 remaining (1 over budget). Next quota of 60 in 28 min. Sleeping for 4 min 37 sec.
+[8mha:////4HKDoSgwqJ9B88w47ZAZWf+e4Av10cn2/A1ekYYQGDGaAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTt5sCCIAAs64rojgAAAA==[0mJenkins is attempting to evenly distribute GitHub API requests. To configure a different rate limiting strategy, such as having Jenkins restrict GitHub API requests only when near or above the GitHub rate limit, go to "GitHub API usage" under "Configure System" in the Jenkins settings.
+[8mha:////4M3uxAJd+wXicidmN9chRAp7dxf2coQ5Q1qkBC1+rAeVAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTt5sANtQA7AaGIjgAAAA==[0mJenkins is attempting to evenly distribute GitHub API requests. To configure a different rate limiting strategy, such as having Jenkins restrict GitHub API requests only when near or above the GitHub rate limit, go to "GitHub API usage" under "Configure System" in the Jenkins settings.
+[8mha:////4PMcrnOqOp2m2COCQYv7eOVNsY49zxZvlgjDgAXFY4MrAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTt5pDihQCi2djhjgAAAA==[0mJenkins-Imposed API Limiter: Still sleeping, now only 1 min 18 sec remaining.
+Examining [8mha:////4N3fXuYRp68VYalXJM+cxJzVdQVhz7dZ+LZ8slaNTzgiAAAAoR+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMjgK2FQzCgpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS4BAEt0vlOmAAAA[0mGalSh5/newtest
+
+  Checking branches...
+
+  Getting remote branch main...
+
+    Checking branch [8mha:////4N7yrEsMxID4/t4kTaEzB1HBedXF7FWfxygj5Q9tk4OZAAAAqx+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgKWHQzigpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS7RLylKTdXPTczMAwDdzkCpsAAAAA==[0mmain
+
+  Getting remote pull requests from branch main...
+[8mha:////4Hdwmlqj63qb5Vnq12Bk0YTIXrMGeGMStAuBVMsI3keZAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTt5hDjHACqKHT0jgAAAA==[0mJenkins-Imposed API Limiter: Still sleeping, now only 1 min 35 sec remaining.
+[8mha:////4F3jSeHaf/0QcdaqWagkmeiNMUZJiMY82yj7tSkQbQ/uAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTt5tA1EgBtYQdUjgAAAA==[0mJenkins-Imposed API Limiter: Current quota for Github API usage has 29 remaining (1 over budget). Next quota of 60 in 23 min. Sleeping for 4 min 36 sec.
+[8mha:////4Fq0JPFMhwX4UtuXb52GO/Jl/JBHR9xKlX2UCXqXGTK0AAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTt5tA1sgDilW0kjgAAAA==[0mJenkins is attempting to evenly distribute GitHub API requests. To configure a different rate limiting strategy, such as having Jenkins restrict GitHub API requests only when near or above the GitHub rate limit, go to "GitHub API usage" under "Configure System" in the Jenkins settings.
+[8mha:////4GuXiZbrsCDzTv1wu2bmPcr+AU/6uhqiPmft0Ew/3X/WAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTt5tA1IQDWbG0rjgAAAA==[0mJenkins-Imposed API Limiter: Current quota for Github API usage has 29 remaining (1 over budget). Next quota of 60 in 23 min. Sleeping for 4 min 36 sec.
+[8mha:////4GuXiZbrsCDzTv1wu2bmPcr+AU/6uhqiPmft0Ew/3X/WAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTt5tA1IQDWbG0rjgAAAA==[0mJenkins is attempting to evenly distribute GitHub API requests. To configure a different rate limiting strategy, such as having Jenkins restrict GitHub API requests only when near or above the GitHub rate limit, go to "GitHub API usage" under "Configure System" in the Jenkins settings.
+[8mha:////4JUKKaCxtkbDeb4SP2otcmTSUIP+z7B1JAXL51jduXluAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTt5oj8NgDwyL+rjgAAAA==[0mJenkins-Imposed API Limiter: Still sleeping, now only 1 min 34 sec remaining.
+      ‘Jenkinsfile’ found
+    Met criteria
+Changes detected: main (b7ea8241c3ac8d6e593dfd6cb21ae3c4a8c88af5 → 239c9dc66e6c7d823af4fe4948d542d388ade1c9)
+Scheduled build for branch: main
+
+  1 branches were processed (query completed)
+
+  1 branches were processed
+
+Finished examining GalSh5/newtest
+
+[Mon Dec 13 10:32:32 UTC 2021] Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.251 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 10:23:30 UTC 2021 processed in 8 min 57 sec
+[8mha:////4JO5Nv7d6mDjeC/rSLkLNOSXxauoeber5RO6E8L4ZdvNAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTt5oj8/QD4QLr0jgAAAA==[0mJenkins-Imposed API Limiter: Still sleeping, now only 1 min 34 sec remaining.
+[Mon Dec 13 12:15:24 UTC 2021] Received Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.112 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 12:15:18 UTC 2021
+[8mha:////4KzdKb87whl9GPcvP4dOyQ/QqkdHuK7+qiYnYYXhC7S/AAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTt5h2iHAALJ43djgAAAA==[0mConnecting to https://api.github.com with no credentials, anonymous access
+Examining [8mha:////4N3fXuYRp68VYalXJM+cxJzVdQVhz7dZ+LZ8slaNTzgiAAAAoR+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMjgK2FQzCgpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS4BAEt0vlOmAAAA[0mGalSh5/newtest
+
+  Checking branches...
+
+  Getting remote branch main...
+
+    Checking branch [8mha:////4N7yrEsMxID4/t4kTaEzB1HBedXF7FWfxygj5Q9tk4OZAAAAqx+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgKWHQzigpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS7RLylKTdXPTczMAwDdzkCpsAAAAA==[0mmain
+
+  Getting remote pull requests from branch main...
+      ‘Jenkinsfile’ found
+    Met criteria
+Changes detected: main (174de10afe924a95b36a4271a6bb23d0a38ca4f3 → 3505688f641965c82b449dffffa75b0f19410bdb)
+Scheduled build for branch: main
+
+  1 branches were processed (query completed)
+
+  1 branches were processed
+
+Finished examining GalSh5/newtest
+
+[Mon Dec 13 12:15:26 UTC 2021] Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.112 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 12:15:18 UTC 2021 processed in 1.4 sec
+[Mon Dec 13 12:33:32 UTC 2021] Received Push event to branch feature_x in repository GalSh5/newtest CREATED event from 140.82.115.109 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 12:33:27 UTC 2021
+[8mha:////4CaGx6MKsrO+uddwcb9ggddgKEVc5dLOhotLhs6Qp92VAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTt5hOrsgHOzZo+jgAAAA==[0mConnecting to https://api.github.com with no credentials, anonymous access
+Examining [8mha:////4N3fXuYRp68VYalXJM+cxJzVdQVhz7dZ+LZ8slaNTzgiAAAAoR+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMjgK2FQzCgpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS4BAEt0vlOmAAAA[0mGalSh5/newtest
+
+  Checking branches...
+
+  Getting remote branch feature_x...
+
+    Checking branch [8mha:////4EMMiftWNKeGCeWq3ZNwLNnxRgsNpxbiNN8uCB6n1ilqAAAArh+LCAAAAAAAAP9djDEOAUEUhp8VEq1SnGGfhoJspUCy0ewBZPDMLGNmMvOGdQ3XoHEIx3EHK9v5mv9r/u/5gU7wMFRxH6xJd9YEqyld3hx5XZrT2jJNsscru7t3AskKupqMZJVDO3rN0M+P4iJQCyOxYF8aOas8DP5y82Z/MWhoJQCVq6XHMFLMLkwRZckqbuvXGRdCF2qMhq5MgZE9ER5IcPS0qb5uNhj6tQAAAA==[0mfeature_x
+
+  Getting remote pull requests from branch feature_x...
+      ‘Jenkinsfile’ found
+    Met criteria
+Scheduled build for branch: feature_x
+
+  1 branches were processed (query completed)
+
+  1 branches were processed
+
+Finished examining GalSh5/newtest
+
+[Mon Dec 13 12:33:32 UTC 2021] Push event to branch feature_x in repository GalSh5/newtest CREATED event from 140.82.115.109 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 12:33:27 UTC 2021 processed in 0.44 sec
+[Mon Dec 13 14:30:58 UTC 2021] Received Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.117 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 14:30:51 UTC 2021
+[8mha:////4LqVGTJY9hHFsKxI1fbiEBBDsAFqA3kVd8VCDT6Za+6AAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtFhO9GgBLp6/DjgAAAA==[0mConnecting to https://api.github.com with no credentials, anonymous access
+Examining [8mha:////4N3fXuYRp68VYalXJM+cxJzVdQVhz7dZ+LZ8slaNTzgiAAAAoR+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMjgK2FQzCgpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS4BAEt0vlOmAAAA[0mGalSh5/newtest
+
+  Checking branches...
+
+  Getting remote branch main...
+
+    Checking branch [8mha:////4N7yrEsMxID4/t4kTaEzB1HBedXF7FWfxygj5Q9tk4OZAAAAqx+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgKWHQzigpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS7RLylKTdXPTczMAwDdzkCpsAAAAA==[0mmain
+
+  Getting remote pull requests from branch main...
+      ‘Jenkinsfile’ found
+    Met criteria
+Changes detected: main (3505688f641965c82b449dffffa75b0f19410bdb → 0a433d1d36dd616df6b128af3dff82da6bbcdbcd)
+Scheduled build for branch: main
+
+  1 branches were processed (query completed)
+
+  1 branches were processed
+
+Finished examining GalSh5/newtest
+
+[Mon Dec 13 14:30:58 UTC 2021] Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.117 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 14:30:51 UTC 2021 processed in 0.13 sec
+[Mon Dec 13 14:46:10 UTC 2021] Received Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.117 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 14:46:04 UTC 2021
+[8mha:////4LH45+w3+M6BtfDMM9X14jP3CJLN8PUOFBPOdYJlLg8NAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtFicJSQALtxcnjgAAAA==[0mConnecting to https://api.github.com with no credentials, anonymous access
+Examining [8mha:////4N3fXuYRp68VYalXJM+cxJzVdQVhz7dZ+LZ8slaNTzgiAAAAoR+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMjgK2FQzCgpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS4BAEt0vlOmAAAA[0mGalSh5/newtest
+
+  Checking branches...
+
+  Getting remote branch main...
+
+    Checking branch [8mha:////4N7yrEsMxID4/t4kTaEzB1HBedXF7FWfxygj5Q9tk4OZAAAAqx+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgKWHQzigpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS7RLylKTdXPTczMAwDdzkCpsAAAAA==[0mmain
+
+  Getting remote pull requests from branch main...
+      ‘Jenkinsfile’ found
+    Met criteria
+Changes detected: main (0a433d1d36dd616df6b128af3dff82da6bbcdbcd → 6930001e1348bcb6b7bdd2af208d10815917af39)
+Scheduled build for branch: main
+
+  1 branches were processed (query completed)
+
+  1 branches were processed
+
+Finished examining GalSh5/newtest
+
+[Mon Dec 13 14:46:10 UTC 2021] Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.117 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 14:46:04 UTC 2021 processed in 0.1 sec
+[Mon Dec 13 14:51:41 UTC 2021] Received Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.89 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 14:51:35 UTC 2021
+[8mha:////4PgFM0C8B9erYLUkLwF7kW3EYeHmWm4En3ZX5IjWEFQPAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtFnfVTQA+RzAKjgAAAA==[0mConnecting to https://api.github.com with no credentials, anonymous access
+Examining [8mha:////4N3fXuYRp68VYalXJM+cxJzVdQVhz7dZ+LZ8slaNTzgiAAAAoR+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMjgK2FQzCgpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS4BAEt0vlOmAAAA[0mGalSh5/newtest
+
+  Checking branches...
+
+  Getting remote branch main...
+
+    Checking branch [8mha:////4N7yrEsMxID4/t4kTaEzB1HBedXF7FWfxygj5Q9tk4OZAAAAqx+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgKWHQzigpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS7RLylKTdXPTczMAwDdzkCpsAAAAA==[0mmain
+
+  Getting remote pull requests from branch main...
+      ‘Jenkinsfile’ found
+    Met criteria
+Changes detected: main (6930001e1348bcb6b7bdd2af208d10815917af39 → 54c5705f6917042f0436b31f3959f8f7dd005342)
+Scheduled build for branch: main
+
+  1 branches were processed (query completed)
+
+  1 branches were processed
+
+Finished examining GalSh5/newtest
+
+[Mon Dec 13 14:51:41 UTC 2021] Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.89 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 14:51:35 UTC 2021 processed in 0.1 sec
+[Mon Dec 13 14:56:27 UTC 2021] Received Push event to branch main in repository GalSh5/newtest UPDATED event from 140.82.115.116 ⇒ http://ec2-18-223-113-95.us-east-2.compute.amazonaws.com:8080/github-webhook/ with timestamp Mon Dec 13 14:56:21 UTC 2021
+[8mha:////4IWRiqnjFRFCCP5zc2B6JZ3xHsep5RESpHbtIgy9aYegAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTtFu+m5QCfcLGPjgAAAA==[0mConnecting to https://api.github.com with no credentials, anonymous access
+Examining [8mha:////4N3fXuYRp68VYalXJM+cxJzVdQVhz7dZ+LZ8slaNTzgiAAAAoR+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMjgK2FQzCgpKSi20tdPzyzJKE0C6srVd0/MCc4w1c9LLS9JLS4BAEt0vlOmAAAA[0mGalSh5/newtest
+
+  Checking branches...
+
+  Getting remote branch main...
+

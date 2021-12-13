@@ -1,0 +1,7 @@
+Started by user [8mha:////4FW9f2AOar/1AnR1xQymF6jbWpanaMhtNEVL2gfDt160AAAAlR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyuEgZO/dLi1CL99MQcAGjtDGK+AAAA[0mGal Shraga
+Running as SYSTEM
+Building on the built-in node in workspace /var/lib/jenkins/workspace/firsttest
+[firsttest] $ /bin/sh -xe /tmp/jenkins7556220738755475269.sh
++ echo gal
+gal
+Finished: SUCCESS
